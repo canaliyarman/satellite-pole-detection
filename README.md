@@ -1,7 +1,8 @@
 # POLE DETECTION DISSERTATION CODE
 I've included dataset creation, dataset transformation and different versions of object detection implementations and training code in this repo. There are detailed steps inside the directories on how to use them. 
 
-![DetectionResults]("Detection Results.png")
+![DetectionResults](Detection%20Results.png)
+
 
 ## etdii-dataset-transformer
 Intended use is on google colab as it utilizes google drive to store the images however can be used in any environment with a few adjustments. Transforms original ETDII dataset to smaller images with oriented bounding box annotations. 
