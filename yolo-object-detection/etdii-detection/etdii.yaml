@@ -1,0 +1,7 @@
+path: E:/ETDII/ETDII_YOLO/  # dataset root dir
+train: images/train
+#val: val/images # for validation
+val: images/val # for testing
+
+names:
+  0: DT
